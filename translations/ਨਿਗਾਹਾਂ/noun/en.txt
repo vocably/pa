@@ -1,0 +1,4 @@
+glances
+sights
+looks
+views
